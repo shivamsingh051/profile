@@ -93,12 +93,12 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/code-with-shiv/code-with-shiv/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resourcs/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="#">
@@ -124,11 +124,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
 <div>
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=code-with-shiv&show_icons=true&include_all_commits=true&theme=radical" alt="shivam's github stats" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
-  <img align="right"  width="40%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17695132" alt="hackcoderr" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shiv&theme=tokyonight" alt="code-with-shiv"/>
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code-with-shiv&layout=compact&theme=radical" alt="code-with-shiv" />
+  <img align="right"  width="40%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17695132" alt="code-with-shiv" />
  
  <p align="center"> 
   <div>
@@ -141,18 +141,18 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/code-with-shiv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
+<a href="https://www.facebook.com/code-with-shiv" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/@code-with-shiv" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://linkedin.com/in/code-with-shiv" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
+<a href="https://instagram.com/code-with-shiv" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -168,7 +168,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/code-with-shiv/code-with-shiv"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
