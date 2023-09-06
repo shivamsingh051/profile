@@ -24,7 +24,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/code-with-shiv/code-with-shiv/blob/main/assets/oct-about.png"> 
 </p>
   
 
