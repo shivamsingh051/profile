@@ -9,11 +9,7 @@
   <p>&nbsp;</p>
   <!--social media icon-->
 <div align="center">
- 
- 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/code-with-shiv)
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/code-with-shiv/)](https://www.linkedin.com/in/code-with-shiv/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hackcoderr?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-code-with-shiv-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
+
 
 
 </div>  
@@ -31,7 +27,7 @@
 
 ## About Me ✍
  
- I'm <b> Shivam Kumar</b>, a curious person, Who wants to know every bit of **DevOps** and **Cloud Computing**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> Shivam Kumar</b>, a curious person, Who wants to know every bit of **DevOps** and **SRE**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
